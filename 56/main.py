@@ -16,5 +16,3 @@ for x in range(1,100):
 			result = s
 
 print result
-
-
